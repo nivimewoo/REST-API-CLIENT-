@@ -36,3 +36,6 @@ Beginners learning how to make API calls in Java.
 Demonstrating Java's HTTP and JSON capabilities.
 Building blocks for applications that need to integrate with external services.
 
+OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/06f5b5a1-a1c6-4fdb-b168-48a9b6593471)
